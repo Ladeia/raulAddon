@@ -2,8 +2,8 @@
   "name": "rauladdon",
   "title": "raulAddon",
   "id": "jid1-i45DjlrypGW5nw",
-  "description": "a basic add-on",
+  "description": "Um addon para exibir se existem membros presentes no Raul Hacker Space",
   "author": "",
   "license": "MPL 2.0",
-  "version": "0.1"
+  "version": "0.2"
 }
